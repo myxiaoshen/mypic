@@ -1,0 +1,2 @@
+# mypic
+blog-img
